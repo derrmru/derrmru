@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy 👋
 
 - 🔭 I’m currently working on [drama fruit](https://www.dramafruit.com).
 - 🌱 I’m currently learning [tensorflow](https://www.tensorflow.org/) :scream: .
